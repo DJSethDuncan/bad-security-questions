@@ -92,7 +92,7 @@ export const securityQuestions = [
   },
   {
     id: 22,
-    question: "Which type of hardwood is most similar ot your personality?",
+    question: "Which type of hardwood is most similar to your personality?",
   },
   {
     id: 23,
