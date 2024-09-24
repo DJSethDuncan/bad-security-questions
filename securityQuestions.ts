@@ -75,7 +75,7 @@ export const securityQuestions = [
   },
   {
     id: 18,
-    question: "What country do you think about the least",
+    question: "What country do you think about the least?",
   },
   {
     id: 19,
