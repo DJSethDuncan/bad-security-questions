@@ -102,7 +102,7 @@ export const securityQuestions = [
   {
     id: 24,
     question:
-      "Given the opportunity, what animal would you release in your in-law's house?",
+      "Given the opportunity, what animal would you release in your in-laws' house?",
   },
   {
     id: 25,
