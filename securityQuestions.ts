@@ -86,4 +86,49 @@ export const securityQuestions = [
     question:
       "What color shirt was your auto mechanic wearing the last time you got your oil changed?",
   },
+  {
+    id: 21,
+    question: "What is your favorite oven temperature?",
+  },
+  {
+    id: 22,
+    question: "Which type of hardwood is most similar ot your personality?",
+  },
+  {
+    id: 23,
+    question:
+      "If you woke up and found yourself in Canada, what book would you buy first?",
+  },
+  {
+    id: 24,
+    question:
+      "Given the opportunity, what animal would you release in your in-law's house?",
+  },
+  {
+    id: 25,
+    question:
+      "Which world leader would you choose as your opponent on the hit 1989 TV show American Gladiators?",
+  },
+  {
+    id: 26,
+    question: "What is your plan for your thinning hair?",
+  },
+  {
+    id: 27,
+    question: "What is your favorite brand of mylar balloon?",
+  },
+  {
+    id: 28,
+    question:
+      "What is your current tire pressure in your vehicle's driver-side rear tire?",
+  },
+  {
+    id: 29,
+    question:
+      "What is the dew point in the nearest Delta Airlines hub city to your company's headquarters?",
+  },
+  {
+    id: 30,
+    question: "Kokia religija yra jūsų mėgstamiausio pyrago recepto autorius?", // Lithuanian
+  },
 ];
