@@ -131,4 +131,17 @@ export const securityQuestions = [
     id: 30,
     question: "Kokia religija yra jūsų mėgstamiausio pyrago recepto autorius?", // Lithuanian
   },
+  {
+    id: 31,
+    question: "Why haven't you called your mom?",
+  },
+  {
+    id: 32,
+    question: "What is your favorite parallelogram?",
+  },
+  {
+    id: 33,
+    question:
+      "If Florida is Georgia's Kansas, which state is Vermont's Nebraska?",
+  },
 ];
